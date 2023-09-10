@@ -1,6 +1,7 @@
 # Table of contents
 
-* [1 基础概念](README.md)
+* [前言](README.md)
+* [1 基础概念](<README (1).md>)
   * [1.1 CIA三元组](1-ji-chu-gai-nian/1.1-cia-san-yuan-zu.md)
   * [1.2 风险评估和风险管理](1-ji-chu-gai-nian/1.2-feng-xian-ping-gu-he-feng-xian-guan-li.md)
   * [1.3 安全策略](1-ji-chu-gai-nian/1.3-an-quan-ce-lve.md)
